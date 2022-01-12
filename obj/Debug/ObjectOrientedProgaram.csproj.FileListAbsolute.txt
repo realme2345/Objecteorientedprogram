@@ -1,0 +1,8 @@
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\obj\Debug\ObjectOrientedProgaram.csproj.AssemblyReference.cache
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\obj\Debug\ObjectOrientedProgaram.csproj.SuggestedBindingRedirects.cache
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\obj\Debug\ObjectOrientedProgaram.csproj.CoreCompileInputs.cache
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\bin\Debug\ObjectOrientedProgaram.exe.config
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\bin\Debug\ObjectOrientedProgaram.exe
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\bin\Debug\ObjectOrientedProgaram.pdb
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\obj\Debug\ObjectOrientedProgaram.exe
+D:\Demo\ObjectOrientedProgaram\ObjectOrientedProgaram\obj\Debug\ObjectOrientedProgaram.pdb
